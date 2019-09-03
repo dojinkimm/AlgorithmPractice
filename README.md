@@ -5,8 +5,8 @@
 
 ### Level 1
 
-|                          algorithm                          |  lang  | solved |
-| :---------------------------------------------------------: | :----: | :-----: |
+|                          algorithm                          |  language  | solved |
+| :---------------------------------------------------------: | :--------: | :-----: |
 |[정수 제곱근 판별](./programmers/level1/2018-07-22-level1_find_sqrt.md)         |   Java   |    ✅    |
 |[x 만큼 간격있는 n개의 숫자 찾기](./programmers/level1/2018-07-23-level1_n_number_x_interval.md) |   Java, Python   |    ✅    |
 |[월과 일이 주어졌을 때 2016년 기준으로 요일 알아내기](./programmers/level1/2018-07-25-level1_date2016.md)         |   Java   |    ✅    |
@@ -25,14 +25,15 @@
 |[수박수박수박수박수박수? ](./programmers/level1/2018-07-27-level1_watermelon.md)|   Java   |    ✅    |
 |[제일 작은 수 제거하기](./programmers/level1/2018-07-28-level1_delete_smallest.md)|   Java   |    ✅    |
 |[하샤드 수](./programmers/level1/2018-07-28-level1_hashad_num.md)|   Java, Python   |    ✅    |
-|[정수 내림차순 구하기](./programmers/level1/2018-07-28-level1_intarray_desc.md)|   Java   |    ✅    |
+|[정수 내림차순 구하기](./programmers/level1/2018-07-28-level1_intarray_desc.md)|   Java, Python   |    ✅    |
 |[최대공약수와 최소공배수 찾기](./programmers/level1/2018-07-28-level1_gcd_lcm.md)|   Java   |    ✅    |
-|[행렬의 덧셈 ](./programmers/level1/2018-07-28-level1_ssum_matrix.md)|   Java   |    ✅    |
+|[행렬의 덧셈 ](./programmers/level1/2018-07-28-level1_ssum_matrix.md)|   Java, Python   |    ✅    |
 
 
 ### SQL
-|                          algorithm                          |  lang  | solved |
-| :---------------------------------------------------------: | :----: | :-----: |
+|                          algorithm                          |  language  | solved |
+| :---------------------------------------------------------: | :--------: | :-----: |
 |[모든 레코드 제외하기](./programmers/sql/2019-09-02-sql1_1.md) |   SQL   |    ✅    |
 |[역순 정렬하기](./programmers/sql/2019-09-02-sql1_2.md) |   SQL   |    ✅    |
-
+|[아픈 동물 찾기](./programmers/sql/2019-09-03-sql2_1.md) |   SQL   |    ✅    |
+|[어린 동물 찾기](./programmers/sql/2019-09-03-sql2_2.md) |   SQL   |    ✅    |
