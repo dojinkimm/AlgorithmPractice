@@ -37,3 +37,7 @@
 |[역순 정렬하기](./programmers/sql/2019-09-02-sql1_2.md) |   SQL   |    ✅    |
 |[아픈 동물 찾기](./programmers/sql/2019-09-03-sql2_1.md) |   SQL   |    ✅    |
 |[어린 동물 찾기](./programmers/sql/2019-09-03-sql2_2.md) |   SQL   |    ✅    |
+|[최솟값 구하기](./programmers/sql/2019-09-04-sql3_1.md) |   SQL   |    ✅    |
+|[이름이 없는 동물의 아이디](./programmers/sql/2019-09-04-sql3_2.md) |   SQL   |    ✅    |
+|[고양이와 개는 몇 마리 있을까](./programmers/sql/2019-09-05-sql4_1.md) |   SQL   |    ✅    |
+|[동명 동물 수 찾기](./programmers/sql/2019-09-05-sql4_2.md) |   SQL   |    ✅    |
