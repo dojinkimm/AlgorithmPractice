@@ -15,7 +15,7 @@
 |[시저암호](./programmers/level1/2018-07-27-level1_caesar_pw.md)  |   Java, Python   |    ✅    |
 |[서울에서 김서방 찾기](./programmers/level1/2018-07-27-level1_find_kim.md)          |   Java   |    ✅    |
 |[같은 숫자는 싫어](./programmers/level1/2018-07-27-level1_no_repeat.md)|   Java   |    ✅    |
-|[문자열 내 p와 y의 개수](./programmers/level1/2018-07-27-level1_num_of)_p_y.md)|   Java   |    ✅    |
+|[문자열 내 p와 y의 개수](./programmers/level1/2018-07-27-level1_num_of_p_y.md)|   Java   |    ✅    |
 |[소수 찾기](./programmers/level1/2018-07-27-level1_prime.md)|   Java   |    ✅    |
 |[문자열 다루기 기본](./programmers/level1/2018-07-27-level1_return_only_num.md)|   Java   |    ✅    |
 |[자연수 뒤집어 배열로 만들기 ](./programmers/level1/2018-07-27-level1_reverse_int.md)|   Java   |    ✅    |
@@ -41,3 +41,5 @@
 |[이름이 없는 동물의 아이디](./programmers/sql/2019-09-04-sql3_2.md) |   SQL   |    ✅    |
 |[고양이와 개는 몇 마리 있을까](./programmers/sql/2019-09-05-sql4_1.md) |   SQL   |    ✅    |
 |[동명 동물 수 찾기](./programmers/sql/2019-09-05-sql4_2.md) |   SQL   |    ✅    |
+|[없어진 기록 찾기](./programmers/sql/2019-09-06-sql5_1.md) |   SQL   |    ✅    |
+|[있었는데요 없었습니다](./programmers/sql/2019-09-06-sql5_2.md) |   SQL   |    ✅    |
