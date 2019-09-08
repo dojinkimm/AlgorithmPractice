@@ -43,3 +43,7 @@
 |[동명 동물 수 찾기](./programmers/sql/2019-09-05-sql4_2.md) |   SQL   |    ✅    |
 |[없어진 기록 찾기](./programmers/sql/2019-09-06-sql5_1.md) |   SQL   |    ✅    |
 |[있었는데요 없었습니다](./programmers/sql/2019-09-06-sql5_2.md) |   SQL   |    ✅    |
+|[오랜 기간 보호한 동물(1)](./programmers/sql/2019-09-07-sql6_1.md) |   SQL   |    ✅    |
+|[보호소에서 중성화한 동물](./programmers/sql/2019-09-07-sql6_2.md) |   SQL   |    ✅    |
+|[루시와 엘라 찾기](./programmers/sql/2019-09-08-sql7_1.md) |   SQL   |    ✅    |
+|[이름이 el로 끝나는 동물 찾기](./programmers/sql/2019-09-08-sql7_2.md) |   SQL   |    ✅    |
