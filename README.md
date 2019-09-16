@@ -47,3 +47,13 @@
 |[보호소에서 중성화한 동물](./programmers/sql/2019-09-07-sql6_2.md) |   SQL   |    ✅    |
 |[루시와 엘라 찾기](./programmers/sql/2019-09-08-sql7_1.md) |   SQL   |    ✅    |
 |[이름이 el로 끝나는 동물 찾기](./programmers/sql/2019-09-08-sql7_2.md) |   SQL   |    ✅    |
+
+
+
+
+## [Baekjoon](https://www.acmicpc.net/)
+
+|                          algorithm                |  language  | solved |
+| :-----------------------------------------------: | :--------: | :-----: |
+|[1026_보물]((./baekjoon/1026_treasure.py)      |   Python   |        |
+|[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
