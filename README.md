@@ -55,5 +55,5 @@
 
 |                          algorithm                |  language  | solved |
 | :-----------------------------------------------: | :--------: | :-----: |
-|[1026_보물]((./baekjoon/1026_treasure.py)      |   Python   |        |
+|[1026_보물](./baekjoon/1026_treasure.py)      |   Python   |        |
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
