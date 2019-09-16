@@ -1,0 +1,6 @@
+# virtual environment
+venv/*
+
+# .idea files
+baekjoon/.idea/*
+.idea/*
