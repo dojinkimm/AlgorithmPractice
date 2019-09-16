@@ -4,3 +4,4 @@ venv/*
 # .idea files
 baekjoon/.idea/*
 .idea/*
+.idea/vcs.xml
