@@ -3,6 +3,13 @@
 
 ## [Programmers](https://programmers.co.kr/)
 
+### Kakao Blind 2017
+
+|                          algorithm                |  language  | solved |
+| :-----------------------------------------------: | :--------: | :-----: |
+|[캐시](./programmers/kakao_blind_2017/3_cache.py)             |   Python   |   ✅     |  
+
+
 ### Level 1
 
 |                          algorithm                          |  language  | solved |
@@ -55,5 +62,5 @@
 
 |                          algorithm                |  language  | solved |
 | :-----------------------------------------------: | :--------: | :-----: |
-|[1026_보물](./baekjoon/1026_treasure.py)      |   Python   |        |
+|[1026_보물](./baekjoon/1026_treasure.py)             |   Python   |   ✅     |  
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
