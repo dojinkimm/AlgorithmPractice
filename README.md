@@ -7,6 +7,7 @@
 
 |                          algorithm                |  language  | solved |
 | :-----------------------------------------------: | :--------: | :-----: |
+|[비밀지도](./programmers/kakao_blind_2017/1_secret_map.py)             |   Python   |   ✅     |  
 |[캐시](./programmers/kakao_blind_2017/3_cache.py)             |   Python   |   ✅     |  
 
 
@@ -64,3 +65,4 @@
 | :-----------------------------------------------: | :--------: | :-----: |
 |[1026_보물](./baekjoon/1026_treasure.py)             |   Python   |   ✅     |  
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
+|[7568_덩치](./baekjoon/7568_덩치.py)             |     Python |    ✅    |
