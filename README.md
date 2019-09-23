@@ -65,4 +65,6 @@
 | :-----------------------------------------------: | :--------: | :-----: |
 |[1026_보물](./baekjoon/1026_treasure.py)             |   Python   |   ✅     |  
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
-|[7568_덩치](./baekjoon/7568_덩치.py)             |     Python |    ✅    |
+|[2231_분해합](./baekjoon/2231_divide_sum.py)             |     Python |    ✅    |
+|[2798_블랙잭](./baekjoon/2798_blackjack.py)             |     Python |    ✅    |
+|[7568_덩치](./baekjoon/7568_body_size.py)             |     Python |    ✅    |
