@@ -64,7 +64,12 @@
 |                          algorithm                |  language  | solved |
 | :-----------------------------------------------: | :--------: | :-----: |
 |[1026_보물](./baekjoon/1026_treasure.py)             |   Python   |   ✅     |  
+|[1541_잃어버린 괄호](./baekjoon/1541_lost_paranthesis.py)             |     Python |    ✅    |
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
+|[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |     Python |    ✅    |
+|[1931_회의실 정](./baekjoon/1931_meeting.py)             |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)             |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)             |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)             |     Python |    ✅    |
+|[11047_동전0](./baekjoon/11047_coin0.py)             |     Python |    ✅    |
+|[11399_ATM](./baekjoon/11399_atm.py)             |     Python |    ✅    |
