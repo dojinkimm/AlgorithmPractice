@@ -67,7 +67,7 @@
 |[1541_잃어버린 괄호](./baekjoon/1541_lost_paranthesis.py)             |     Python |    ✅    |
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
 |[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |     Python |    ✅    |
-|[1931_회의실 정](./baekjoon/1931_meeting.py)             |     Python |    ✅    |
+|[1931_회의실 배정](./baekjoon/1931_meeting.py)             |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)             |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)             |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)             |     Python |    ✅    |
