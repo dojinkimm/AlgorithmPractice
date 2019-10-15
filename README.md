@@ -63,17 +63,24 @@
 
 |                          algorithm                |  language  | solved |
 | :-----------------------------------------------: | :--------: | :-----: |
+|[1003_피보나치](./baekjoon/1003_피보나치.py)             |   Python   |   ✅     | 
 |[1026_보물](./baekjoon/1026_treasure.py)             |   Python   |   ✅     |  
 |[1541_잃어버린 괄호](./baekjoon/1541_lost_paranthesis.py)             |     Python |    ✅    |
 |[1759_암호 만들기](./baekjoon/1759_make_pwd.py)             |     Python |    ✅    |
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
 |[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |     Python |    ✅    |
+|[1912_연속합](./baekjoon/1912_continuous_sum.py)             |     Python |    ✅    |
 |[1931_회의실 배정](./baekjoon/1931_meeting.py)             |     Python |    ✅    |
 |[1987_알파벳](./baekjoon/1987_alphabet.py)             |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)             |     Python |    ✅    |
-|[2580_sudoku](./baekjoon/2580_sudoku.py)             |     Python |    ✅    |
+|[2294_동전 2](./baekjoon/2295_coin2.py)             |     Python |    ✅    |
+|[2580_스도쿠](./baekjoon/2580_sudoku.py)             |     Python |    ✅    |
+|[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)             |     Python |    ✅    |
+|[2748_피보나치 2](./baekjoon/2748_fib2.py)             |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)             |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)             |     Python |    ✅    |
-|[9663_nqueen](./baekjoon/9663_nqueen.py)             |     Python |    ✅    |
+|[9663_NQueen](./baekjoon/9663_nqueen.py)             |     Python |    ✅    |
 |[11047_동전0](./baekjoon/11047_coin0.py)             |     Python |    ✅    |
+|[11050_이항계수1](./baekjoon/11050_binom_coef.py)             |     Python |    ✅    |
+|[11051_이항계수2](./baekjoon/11050_binom_coef_2.py)             |     Python |    ✅    |
 |[11399_ATM](./baekjoon/11399_atm.py)             |     Python |    ✅    |
