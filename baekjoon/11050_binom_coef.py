@@ -1,4 +1,4 @@
-# BOJ 11051 - 이항계수 2
+# BOJ 11050 - 이항계수 1
 import sys
 
 N, K = map(int, sys.stdin.readline().split())
