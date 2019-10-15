@@ -1,3 +1,4 @@
+# BOJ 2580 - 스도쿠 v2
 import sys
 import copy
 r = sys.stdin.readline
