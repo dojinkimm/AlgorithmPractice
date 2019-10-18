@@ -84,3 +84,4 @@
 |[11050_이항계수1](./baekjoon/11050_binom_coef.py)             |     Python |    ✅    |
 |[11051_이항계수2](./baekjoon/11050_binom_coef_2.py)             |     Python |    ✅    |
 |[11399_ATM](./baekjoon/11399_atm.py)             |     Python |    ✅    |
+|[12865_평범한 배낭](./baekjoon/12865_knapsack.py)             |     Python |    ✅    |
