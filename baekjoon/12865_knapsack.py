@@ -13,17 +13,3 @@ for i in range(N):
             knap[j] = max(knap[j], knap[j-bag[i][0]] + bag[i][1])
 
 print(knap[-1])
-
-
-# 4 7
-# 6 13
-# 4 8
-# 3 6
-# 5 12
-
-
-# 4 5
-# 2 3
-# 3 4
-# 4 5
-# 5 6
