@@ -11,7 +11,6 @@ arr[0] = 0
 for i in range(N):
     for j in range(coins[i], K+1):
         arr[j] = min(arr[j], arr[j-coins[i]] + 1)
-        print(arr)
 
 arr[-1] = arr[-1] if arr[-1] != 10001 else -1
 print(arr[-1])
