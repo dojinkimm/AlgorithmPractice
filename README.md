@@ -66,6 +66,7 @@
 |[1003_피보나치](./baekjoon/1003_피보나치.py)             |   Python   |   ✅     | 
 |[1026_보물](./baekjoon/1026_treasure.py)             |   Python   |   ✅     |  
 |[1541_잃어버린 괄호](./baekjoon/1541_lost_paranthesis.py)             |     Python |    ✅    |
+|[1697_숨박꼭질](./baekjoon/1697_hideseek.py)             |     Python |    ✅    |
 |[1759_암호 만들기](./baekjoon/1759_make_pwd.py)             |     Python |    ✅    |
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
 |[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |     Python |    ✅    |
@@ -79,6 +80,9 @@
 |[2748_피보나치 2](./baekjoon/2748_fib2.py)             |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)             |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)             |     Python |    ✅    |
+|[7576_토마토](./baekjoon/7576_tomato.py)             |     Python |    ✅    |
+|[9372_상근이의 여행](./baekjoon/9372_sang_travel.py)             |     Python |    ✅    |
+|[9461_파도반 수열](./baekjoon/9461_wave_sequence.py)             |     Python |    ✅    |
 |[9663_NQueen](./baekjoon/9663_nqueen.py)             |     Python |    ✅    |
 |[11047_동전0](./baekjoon/11047_coin0.py)             |     Python |    ✅    |
 |[11050_이항계수1](./baekjoon/11050_binom_coef.py)             |     Python |    ✅    |
