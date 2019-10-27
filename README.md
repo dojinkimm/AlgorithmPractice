@@ -74,13 +74,13 @@
 |[1912_연속합](./baekjoon/1912_continuous_sum.py)         |   DP    |     Python |    ✅    |
 |[1931_회의실 배정](./baekjoon/1931_meeting.py)            |   Greedy |     Python |    ✅    |
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
-|[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Greedy |     Python |    ✅    |
+|[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
 |[2294_동전 2](./baekjoon/2295_coin2.py)             |   DP|     Python |    ✅    |
 |[2580_스도쿠](./baekjoon/2580_sudoku.py)             |   Backtracking|     Python |    ✅    |
 |[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
 |[2748_피보나치 2](./baekjoon/2748_fib2.py)            |   DP |     Python |    ✅    |
-|[2798_블랙잭](./baekjoon/2798_blackjack.py)           |     |     Python |    ✅    |
-|[7568_덩치](./baekjoon/7568_body_size.py)            |    |     Python |    ✅    |
+|[2798_블랙잭](./baekjoon/2798_blackjack.py)           |  Bruteforce   |     Python |    ✅    |
+|[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
 |[7576_토마토](./baekjoon/7576_tomato.py)            |   BFS |     Python |    ✅    |
 |[9251_LCS](./baekjoon/9251_lcs.py)            |   DP(LCS) |     Python |    ✅    |
 |[9372_상근이의 여행](./baekjoon/9372_sang_travel.py)    |   MST    |     Python |    ✅    |
