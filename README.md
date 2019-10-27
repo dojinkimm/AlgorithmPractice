@@ -5,7 +5,7 @@
 
 ### Kakao Blind 2017
 
-|                          algorithm                |  language  | solved |
+|                          problem                |  language  | solved |
 | :-----------------------------------------------: | :--------: | :-----: |
 |[비밀지도](./programmers/kakao_blind_2017/1_secret_map.py)             |   Python   |   ✅     |  
 |[캐시](./programmers/kakao_blind_2017/3_cache.py)             |   Python   |   ✅     |  
@@ -13,7 +13,7 @@
 
 ### Level 1
 
-|                          algorithm                          |  language  | solved |
+|                          problem                          |  language  | solved |
 | :---------------------------------------------------------: | :--------: | :-----: |
 |[정수 제곱근 판별](./programmers/level1/2018-07-22-level1_find_sqrt.md)         |   Java   |    ✅    |
 |[x 만큼 간격있는 n개의 숫자 찾기](./programmers/level1/2018-07-23-level1_n_number_x_interval.md) |   Java, Python   |    ✅    |
@@ -39,7 +39,7 @@
 
 
 ### SQL
-|                          algorithm                          |  language  | solved |
+|                          problem                          |  language  | solved |
 | :---------------------------------------------------------: | :--------: | :-----: |
 |[모든 레코드 제외하기](./programmers/sql/2019-09-02-sql1_1.md) |   SQL   |    ✅    |
 |[역순 정렬하기](./programmers/sql/2019-09-02-sql1_2.md) |   SQL   |    ✅    |
@@ -61,31 +61,33 @@
 
 ## [Baekjoon](https://www.acmicpc.net/)
 
-|                          algorithm                |  language  | solved |
-| :-----------------------------------------------: | :--------: | :-----: |
-|[1003_피보나치](./baekjoon/1003_피보나치.py)             |   Python   |   ✅     | 
-|[1026_보물](./baekjoon/1026_treasure.py)             |   Python   |   ✅     |  
-|[1541_잃어버린 괄호](./baekjoon/1541_lost_paranthesis.py)             |     Python |    ✅    |
-|[1697_숨박꼭질](./baekjoon/1697_hideseek.py)             |     Python |    ✅    |
-|[1759_암호 만들기](./baekjoon/1759_make_pwd.py)             |     Python |    ✅    |
-|[1764_듣보잡](./baekjoon/1764_deutbo.py)             |     Python |    ✅    |
-|[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |     Python |    ✅    |
-|[1912_연속합](./baekjoon/1912_continuous_sum.py)             |     Python |    ✅    |
-|[1931_회의실 배정](./baekjoon/1931_meeting.py)             |     Python |    ✅    |
-|[1987_알파벳](./baekjoon/1987_alphabet.py)             |     Python |    ✅    |
-|[2231_분해합](./baekjoon/2231_divide_sum.py)             |     Python |    ✅    |
-|[2294_동전 2](./baekjoon/2295_coin2.py)             |     Python |    ✅    |
-|[2580_스도쿠](./baekjoon/2580_sudoku.py)             |     Python |    ✅    |
-|[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)             |     Python |    ✅    |
-|[2748_피보나치 2](./baekjoon/2748_fib2.py)             |     Python |    ✅    |
-|[2798_블랙잭](./baekjoon/2798_blackjack.py)             |     Python |    ✅    |
-|[7568_덩치](./baekjoon/7568_body_size.py)             |     Python |    ✅    |
-|[7576_토마토](./baekjoon/7576_tomato.py)             |     Python |    ✅    |
-|[9372_상근이의 여행](./baekjoon/9372_sang_travel.py)             |     Python |    ✅    |
-|[9461_파도반 수열](./baekjoon/9461_wave_sequence.py)             |     Python |    ✅    |
-|[9663_NQueen](./baekjoon/9663_nqueen.py)             |     Python |    ✅    |
-|[11047_동전0](./baekjoon/11047_coin0.py)             |     Python |    ✅    |
-|[11050_이항계수1](./baekjoon/11050_binom_coef.py)             |     Python |    ✅    |
-|[11051_이항계수2](./baekjoon/11050_binom_coef_2.py)             |     Python |    ✅    |
-|[11399_ATM](./baekjoon/11399_atm.py)             |     Python |    ✅    |
-|[12865_평범한 배낭](./baekjoon/12865_knapsack.py)             |     Python |    ✅    |
+|                          problem                |  algorithm  | language  | solved |
+| :-----------------------------------------------: | :--------: | :--------: | :-----: |
+|[1003_피보나치](./baekjoon/1003_피보나치.py)            | DP        |   Python   |   ✅     | 
+|[1026_보물](./baekjoon/1026_treasure.py)            |    |   Python   |   ✅     |  
+|[1260_DFS와 BFS](./baekjoon/1260_dfs_bfs.py) |  BFS, DFS     |     Python |    ✅    |
+|[1541_잃어버린 괄호](./baekjoon/1541_lost_paranthesis.py) |   Greedy     |     Python |    ✅    |
+|[1697_숨박꼭질](./baekjoon/1697_hideseek.py)            |   BFS |     Python |    ✅    |
+|[1759_암호 만들기](./baekjoon/1759_make_pwd.py)        |   Backtracking   |     Python |    ✅    |
+|[1764_듣보잡](./baekjoon/1764_deutbo.py)            |    |     Python |    ✅    |
+|[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |   Greedy |     Python |    ✅    |
+|[1912_연속합](./baekjoon/1912_continuous_sum.py)         |   DP    |     Python |    ✅    |
+|[1931_회의실 배정](./baekjoon/1931_meeting.py)            |   Greedy |     Python |    ✅    |
+|[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
+|[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Greedy |     Python |    ✅    |
+|[2294_동전 2](./baekjoon/2295_coin2.py)             |   DP|     Python |    ✅    |
+|[2580_스도쿠](./baekjoon/2580_sudoku.py)             |   Backtracking|     Python |    ✅    |
+|[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
+|[2748_피보나치 2](./baekjoon/2748_fib2.py)            |   DP |     Python |    ✅    |
+|[2798_블랙잭](./baekjoon/2798_blackjack.py)           |     |     Python |    ✅    |
+|[7568_덩치](./baekjoon/7568_body_size.py)            |    |     Python |    ✅    |
+|[7576_토마토](./baekjoon/7576_tomato.py)            |   BFS |     Python |    ✅    |
+|[9251_LCS](./baekjoon/9251_lcs.py)            |   DP(LCS) |     Python |    ✅    |
+|[9372_상근이의 여행](./baekjoon/9372_sang_travel.py)    |   MST    |     Python |    ✅    |
+|[9461_파도반 수열](./baekjoon/9461_wave_sequence.py)     |   DP |     Python |    ✅    |
+|[9663_NQueen](./baekjoon/9663_nqueen.py)             |   Backtracking |     Python |    ✅    |
+|[11047_동전0](./baekjoon/11047_coin0.py)            |   Greedy |     Python |    ✅    |
+|[11050_이항계수1](./baekjoon/11050_binom_coef.py)         |   DP    |     Python |    ✅    |
+|[11051_이항계수2](./baekjoon/11050_binom_coef_2.py)        |   DP     |     Python |    ✅    |
+|[11399_ATM](./baekjoon/11399_atm.py)            |    |     Python |    ✅    |
+|[12865_평범한 배낭](./baekjoon/12865_knapsack.py)|   DP|     Python |    ✅    |
