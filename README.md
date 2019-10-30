@@ -89,5 +89,5 @@
 |[11047_동전0](./baekjoon/11047_coin0.py)            |   Greedy |     Python |    ✅    |
 |[11050_이항계수1](./baekjoon/11050_binom_coef.py)         |   DP    |     Python |    ✅    |
 |[11051_이항계수2](./baekjoon/11050_binom_coef_2.py)        |   DP     |     Python |    ✅    |
-|[11399_ATM](./baekjoon/11399_atm.py)            |    |     Python |    ✅    |
+|[11399_ATM](./baekjoon/11399_atm.py)            |  Greedy  |     Python |    ✅    |
 |[12865_평범한 배낭](./baekjoon/12865_knapsack.py)|   DP|     Python |    ✅    |
