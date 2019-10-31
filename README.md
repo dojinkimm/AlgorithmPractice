@@ -66,6 +66,7 @@
 |[1003_피보나치](./baekjoon/1003_피보나치.py)            | DP        |   Python   |   ✅     | 
 |[1026_보물](./baekjoon/1026_treasure.py)            |    |   Python   |   ✅     |  
 |[1260_DFS와 BFS](./baekjoon/1260_dfs_bfs.py) |  BFS, DFS     |     Python |    ✅    |
+|[1463_1로 만들기](./baekjoon/1463_make1.py)            |  DP  |   Python   |   ✅     |  
 |[1541_잃어버린 괄호](./baekjoon/1541_lost_paranthesis.py) |   Greedy     |     Python |    ✅    |
 |[1697_숨박꼭질](./baekjoon/1697_hideseek.py)            |   BFS |     Python |    ✅    |
 |[1759_암호 만들기](./baekjoon/1759_make_pwd.py)        |   Backtracking   |     Python |    ✅    |
@@ -73,11 +74,13 @@
 |[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |   Greedy |     Python |    ✅    |
 |[1912_연속합](./baekjoon/1912_continuous_sum.py)         |   DP    |     Python |    ✅    |
 |[1931_회의실 배정](./baekjoon/1931_meeting.py)            |   Greedy |     Python |    ✅    |
+|[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
 |[2294_동전 2](./baekjoon/2295_coin2.py)             |   DP|     Python |    ✅    |
 |[2580_스도쿠](./baekjoon/2580_sudoku.py)             |   Backtracking|     Python |    ✅    |
 |[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
+|[2606_바이러스](./baekjoon/2606_virus.py)           |  DFS   |     Python |    ✅    |
 |[2748_피보나치 2](./baekjoon/2748_fib2.py)            |   DP |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)           |  Bruteforce   |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
