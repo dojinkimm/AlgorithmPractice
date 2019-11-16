@@ -74,14 +74,17 @@
 |[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |   Greedy |     Python |    ✅    |
 |[1912_연속합](./baekjoon/1912_continuous_sum.py)         |   DP    |     Python |    ✅    |
 |[1931_회의실 배정](./baekjoon/1931_meeting.py)            |   Greedy |     Python |    ✅    |
-|[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
+|[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
 |[2294_동전 2](./baekjoon/2295_coin2.py)             |   DP|     Python |    ✅    |
-|[2580_스도쿠](./baekjoon/2580_sudoku.py)             |   Backtracking|     Python |    ✅    |
+|[2294_동전 2](./baekjoon/2295_coin2.py)             |   DP|     Python |    ✅    |
+|[2468_안전영역](./baekjoon/2468_safezone.py)             |   DFS|     Python |    ✅    |
 |[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
 |[2606_바이러스](./baekjoon/2606_virus.py)           |  DFS   |     Python |    ✅    |
+|[2667_단지 번호 붙히기](./baekjoon/2667_putnums.py)             |  DFS|     Python |    ✅    |
 |[2748_피보나치 2](./baekjoon/2748_fib2.py)            |   DP |     Python |    ✅    |
+|[2751_정렬 2](./baekjoon/2751_sort2.py)             |   Sorting |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)           |  Bruteforce   |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
 |[7576_토마토](./baekjoon/7576_tomato.py)            |   BFS |     Python |    ✅    |
@@ -89,6 +92,8 @@
 |[9372_상근이의 여행](./baekjoon/9372_sang_travel.py)    |   MST    |     Python |    ✅    |
 |[9461_파도반 수열](./baekjoon/9461_wave_sequence.py)     |   DP |     Python |    ✅    |
 |[9663_NQueen](./baekjoon/9663_nqueen.py)             |   Backtracking |     Python |    ✅    |
+|[10814_나이순정렬](./baekjoon/10814_agesort.py)     |   Sorting |     Python |    ✅    |
+|[10989_정렬 3](./baekjoon/10989_sort3.py)     |   DP |     Python |    ✅    |
 |[11047_동전0](./baekjoon/11047_coin0.py)            |   Greedy |     Python |    ✅    |
 |[11050_이항계수1](./baekjoon/11050_binom_coef.py)         |   DP    |     Python |    ✅    |
 |[11051_이항계수2](./baekjoon/11050_binom_coef_2.py)        |   DP     |     Python |    ✅    |
