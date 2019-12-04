@@ -65,6 +65,8 @@
 | :-----------------------------------------------: | :--------: | :--------: | :-----: |
 |[1003_피보나치](./baekjoon/1003_피보나치.py)            | DP        |   Python   |   ✅     | 
 |[1026_보물](./baekjoon/1026_treasure.py)            |    |   Python   |   ✅     |  
+|[1152_단어 개수](./baekjoon/1152_numword.py) |  문자열     |     Python |    ✅    |
+|[1157_단어 공부](./baekjoon/1157_wordstudy.py) |  문자열     |     Python |    ✅    |
 |[1260_DFS와 BFS](./baekjoon/1260_dfs_bfs.py) |  BFS, DFS     |     Python |    ✅    |
 |[1463_1로 만들기](./baekjoon/1463_make1.py)            |  DP  |   Python   |   ✅     |  
 |[1541_잃어버린 괄호](./baekjoon/1541_lost_paranthesis.py) |   Greedy     |     Python |    ✅    |
@@ -92,6 +94,7 @@
 |[9372_상근이의 여행](./baekjoon/9372_sang_travel.py)    |   MST    |     Python |    ✅    |
 |[9461_파도반 수열](./baekjoon/9461_wave_sequence.py)     |   DP |     Python |    ✅    |
 |[9663_NQueen](./baekjoon/9663_nqueen.py)             |   Backtracking |     Python |    ✅    |
+|[9935_문자열 폭발](./baekjoon/9935_word_explosion.py)    |   문자열    |     Python |       |
 |[10814_나이순정렬](./baekjoon/10814_agesort.py)     |   Sorting |     Python |    ✅    |
 |[10989_정렬 3](./baekjoon/10989_sort3.py)     |   DP |     Python |    ✅    |
 |[11047_동전0](./baekjoon/11047_coin0.py)            |   Greedy |     Python |    ✅    |
