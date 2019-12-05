@@ -25,7 +25,7 @@ def dijkstra(n, m, al):
                 if dist[nx][ny] > wall:
                     dist[nx][ny] = wall
                     heappush(q, [nx, ny, wall])
-    return dist
+    return dist[m-1][n-1]
 
 
 N, M = map(int, r().split())
