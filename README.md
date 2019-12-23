@@ -97,6 +97,8 @@
 |[2751_정렬 2](./baekjoon/2751_sort2.py)             |   Sorting |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)           |  Bruteforce   |     Python |    ✅    |
 |[2941_크로아티아 알파벳](./baekjoon/2941_croatia_alphabeeet.py)           |  문자열   |     Python |    ✅    |
+|[4485_녹색 옷 입은 애가 젤다지?](./baekjoon/4485_jelda.py)            |  Dijkstra  |     Python |    ✅    |
+|[6593_상범빌딩](./baekjoon/6593_sang_building.py)            |  Dijkstra  |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
 |[7576_토마토](./baekjoon/7576_tomato.py)            |   BFS |     Python |    ✅    |
 |[9251_LCS](./baekjoon/9251_lcs.py)            |   DP(LCS) |     Python |    ✅    |
