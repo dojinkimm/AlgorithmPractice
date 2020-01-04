@@ -1,5 +1,8 @@
 # AlgorithmPractice
 
+- Programmers
+- BaekJoon Online
+- LeetCode
 
 ## [Programmers](https://programmers.co.kr/)
 
@@ -86,8 +89,7 @@
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
 |[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
-|[2294_동전 2](./baekjoon/2295_coin2.py)             |   DP|     Python |    ✅    |
-|[2294_동전 2](./baekjoon/2295_coin2.py)             |   DP|     Python |    ✅    |
+|[2294_동전 2](./baekjoon/2294_coin2.py)             |   DP|     Python |    ✅    |
 |[2455_지능형 기차](./baekjoon/2455_train.py)            |   Simulation |     Python |    ✅    |
 |[2468_안전영역](./baekjoon/2468_safezone.py)             |   DFS|     Python |    ✅    |
 |[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
@@ -96,7 +98,7 @@
 |[2748_피보나치 2](./baekjoon/2748_fib2.py)            |   DP |     Python |    ✅    |
 |[2751_정렬 2](./baekjoon/2751_sort2.py)             |   Sorting |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)           |  Bruteforce   |     Python |    ✅    |
-|[2941_크로아티아 알파벳](./baekjoon/2941_croatia_alphabeeet.py)           |  문자열   |     Python |    ✅    |
+|[2941_크로아티아 알파벳](./baekjoon/2941_croatia_alphabet.py)           |  문자열   |     Python |    ✅    |
 |[4485_녹색 옷 입은 애가 젤다지?](./baekjoon/4485_jelda.py)            |  Dijkstra  |     Python |    ✅    |
 |[6593_상범빌딩](./baekjoon/6593_sang_building.py)            |  Dijkstra  |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
@@ -110,7 +112,21 @@
 |[10989_정렬 3](./baekjoon/10989_sort3.py)     |   DP |     Python |    ✅    |
 |[11047_동전0](./baekjoon/11047_coin0.py)            |   Greedy |     Python |    ✅    |
 |[11050_이항계수1](./baekjoon/11050_binom_coef.py)         |   DP    |     Python |    ✅    |
-|[11051_이항계수2](./baekjoon/11050_binom_coef_2.py)        |   DP     |     Python |    ✅    |
+|[11051_이항계수2](./baekjoon/11051_binom_coef_2.py)        |   DP     |     Python |    ✅    |
 |[11399_ATM](./baekjoon/11399_atm.py)            |  Greedy  |     Python |    ✅    |
 |[12865_평범한 배낭](./baekjoon/12865_knapsack.py)|   DP|     Python |    ✅    |
-|[15953_상금 헌터](./baekjoon/15953_treasure_hunters.py)|   Bruteforce |     Python |    ✅    |
+|[15953_상금 헌터](./baekjoon/15953_treasure_hunter.py)|   Bruteforce |     Python |    ✅    |
+
+
+
+## [LeetCode](https://leetcode.com/)
+
+|                          problem                |  Level  | language  | solved |
+| :-----------------------------------------------: | :--------: | :--------: | :-----: |
+|[2 Add Two Numbers](./leetcode/2_add_two_numbers.py) |  Medium |   Python |   ✅    |
+|[7 Reverse Integer](./leetcode/7_reverse_integer.py) |  Easy |   Python |   ✅    | 
+|[8 String to Integer (atoi)](./leetcode/8_atoi.py) |  Medium |   Python |   ✅    | 
+|[9 Palindrome Number](./leetcode/9_palindrome.py) |  Easy |   Python |   ✅    | 
+|[11 Container With Most Water](./leetcode/11_cont_most_water.py) |  Medium |   Python |   ✅    | 
+|[13 Roman to Integer](./leetcode/13_roman_int.py) |  Easy |   Python |   ✅    | 
+
