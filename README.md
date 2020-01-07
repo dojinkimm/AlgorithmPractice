@@ -85,6 +85,7 @@
 | :-----------------------------------------------: | :--------: | :--------: | :-----: |
 |[1003_피보나치](./baekjoon/1003_fib.py)            | DP        |   Python   |   ✅     | 
 |[1026_보물](./baekjoon/1026_treasure.py)            |    |   Python   |   ✅     |  
+|[1074_Z](./baekjoon/1074_z.py) |  Divide & Conquer     |     Python |    ✅    |
 |[1152_단어 개수](./baekjoon/1152_numword.py) |  문자열     |     Python |    ✅    |
 |[1157_단어 공부](./baekjoon/1157_wordstudy.py) |  문자열     |     Python |    ✅    |
 |[1238_파티](./baekjoon/1238_party.py) |  Dijkstra(최단거리)     |     Python |    ✅    |
@@ -98,12 +99,14 @@
 |[1753_최단경로](./baekjoon/1753_shortest_path.py)            |   Dijkstra(최단경로) |     Python |    ✅    |
 |[1759_암호 만들기](./baekjoon/1759_make_pwd.py)        |   Backtracking   |     Python |    ✅    |
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)            |    |     Python |    ✅    |
+|[1780_종이의 개수](./baekjoon/1780_paper_num.py)             |   Divide & Conquer |     Python |    ✅    |
 |[1781_컵라면](./baekjoon/1781_cup_ramen.py)             |   Greedy |     Python |    ✅    |
 |[1912_연속합](./baekjoon/1912_continuous_sum.py)         |   DP    |     Python |    ✅    |
 |[1916_최소비용 구하기](./baekjoon/1916_mincost.py)            |   Dijkstra(최단경로) |     Python |    ✅    |
 |[1931_회의실 배정](./baekjoon/1931_meeting.py)            |   Greedy |     Python |    ✅    |
 |[1966_프린터](./baekjoon/1966_printer.py)            |   Simulation |     Python |    ✅    |
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
+|[1992_쿼드트리](./baekjoon/1992_quadtree.py)            |   Divide & Conquer |     Python |    ✅    |
 |[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
 |[2294_동전 2](./baekjoon/2294_coin2.py)             |   DP|     Python |    ✅    |
@@ -132,6 +135,7 @@
 |[11050_이항계수1](./baekjoon/11050_binom_coef.py)         |   DP    |     Python |    ✅    |
 |[11051_이항계수2](./baekjoon/11051_binom_coef_2.py)        |   DP     |     Python |    ✅    |
 |[11399_ATM](./baekjoon/11399_atm.py)            |  Greedy  |     Python |    ✅    |
+|[11729_하노이 탑 이동 순서](./baekjoon/11729_hanoi_order.py)|   Divide & Conquer |     Python |    ✅    |
 |[12865_평범한 배낭](./baekjoon/12865_knapsack.py)|   DP|     Python |    ✅    |
 |[15953_상금 헌터](./baekjoon/15953_treasure_hunter.py)|   Bruteforce |     Python |    ✅    |
 
