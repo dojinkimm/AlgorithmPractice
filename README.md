@@ -14,6 +14,23 @@
 |[캐시](./programmers/kakao_blind_2017/3_cache.py)             |   Python   |   ✅     |  
 
 
+### 코딩테스트 고득점 Kit
+
+|                          problem                |  algorithm  | language  | solved |
+| :-----------------------------------------------: | :--------: | :--------: | :-----: |
+|[완전탐색_모의고사](./programmers/bruteforce_test.py)  | Bruteforce  |   Python   |   ✅     | 
+|[완전탐색_소수 찾기](./programmers/bruteforce_prime.py)  | Bruteforce  |   Python   |   ✅     | 
+|[완전탐색_숫자 야구](./programmers/bruteforce_num_baseball.py)  | Bruteforce  |   Python   |   ✅     | 
+|[완전탐색_카펫](./programmers/bruteforce_carpet.py)  | Bruteforce  |   Python   |   ✅     |
+|[정렬_K번쨰 수](./programmers/sort_kthnumber.py)  | Sort  |   Python   |   ✅     |  
+|[정렬_가장 큰 수](./programmers/sort_largestnum.py)  | Sort  |   Python   |   ✅     |  
+|[정렬_H-Index](./programmers/sort_hindex.py)  | Sort  |   Python   |   ✅     |  
+|[해시_완주하지 못한 선수](./programmers/hash_notcomplete_runnery.py)  | Hashing  |   Python   |   ✅     | 
+|[해시_전화번호 목록](./programmers/hash_phonebook.py)  | Hashing  |   Python   |   ✅     | 
+|[해시_위장](./programmers/hash_camouflage.py)  | Hashing  |   Python   |   ✅     | 
+|[해시_베스트앨범](./programmers/hash_bestalbum.py)  | Hashing  |   Python   |        | 
+
+
 ### Level 1
 
 |                          problem                          |  language  | solved |
@@ -90,6 +107,7 @@
 |[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
 |[2294_동전 2](./baekjoon/2294_coin2.py)             |   DP|     Python |    ✅    |
+|[2309_일곱 난쟁이](./baekjoon/2309_dwarf.py)            |   Bruteforce |     Python |    ✅    |
 |[2455_지능형 기차](./baekjoon/2455_train.py)            |   Simulation |     Python |    ✅    |
 |[2468_안전영역](./baekjoon/2468_safezone.py)             |   DFS|     Python |    ✅    |
 |[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
