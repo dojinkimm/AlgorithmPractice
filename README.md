@@ -86,6 +86,7 @@
 |[1003_피보나치](./baekjoon/1003_fib.py)            | DP        |   Python   |   ✅     | 
 |[1026_보물](./baekjoon/1026_treasure.py)            |    |   Python   |   ✅     |  
 |[1074_Z](./baekjoon/1074_z.py) |  Divide & Conquer     |     Python |    ✅    |
+|[1149_RGB 거리](./baekjoon/1149_rgb.py) |  DP     |     Python |    ✅    |
 |[1152_단어 개수](./baekjoon/1152_numword.py) |  문자열     |     Python |    ✅    |
 |[1157_단어 공부](./baekjoon/1157_wordstudy.py) |  문자열     |     Python |    ✅    |
 |[1238_파티](./baekjoon/1238_party.py) |  Dijkstra(최단거리)     |     Python |    ✅    |
@@ -104,15 +105,18 @@
 |[1912_연속합](./baekjoon/1912_continuous_sum.py)         |   DP    |     Python |    ✅    |
 |[1916_최소비용 구하기](./baekjoon/1916_mincost.py)            |   Dijkstra(최단경로) |     Python |    ✅    |
 |[1931_회의실 배정](./baekjoon/1931_meeting.py)            |   Greedy |     Python |    ✅    |
+|[1932_정수 삼각형](./baekjoon/1932_triangle.py)            |   DP |     Python |    ✅    |
 |[1966_프린터](./baekjoon/1966_printer.py)            |   Simulation |     Python |    ✅    |
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
 |[1992_쿼드트리](./baekjoon/1992_quadtree.py)            |   Divide & Conquer |     Python |    ✅    |
 |[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
+|[2193_이친수](./baekjoon/2193_pinary.py)            |   DP |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
 |[2294_동전 2](./baekjoon/2294_coin2.py)             |   DP|     Python |    ✅    |
 |[2309_일곱 난쟁이](./baekjoon/2309_dwarf.py)            |   Bruteforce |     Python |    ✅    |
 |[2455_지능형 기차](./baekjoon/2455_train.py)            |   Simulation |     Python |    ✅    |
 |[2468_안전영역](./baekjoon/2468_safezone.py)             |   DFS|     Python |    ✅    |
+|[2579_계단 오르기](./baekjoon/2579_stairs.py)    |   DP         |     Python |    ✅    |
 |[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
 |[2606_바이러스](./baekjoon/2606_virus.py)           |  DFS   |     Python |    ✅    |
 |[2667_단지 번호 붙히기](./baekjoon/2667_putnums.py)             |  DFS|     Python |    ✅    |
@@ -124,16 +128,20 @@
 |[6593_상범빌딩](./baekjoon/6593_sang_building.py)            |  Dijkstra  |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
 |[7576_토마토](./baekjoon/7576_tomato.py)            |   BFS |     Python |    ✅    |
+|[9095_1,2,3 더하기](./baekjoon/9095_123.py)            |   DP |     Python |    ✅    |
 |[9251_LCS](./baekjoon/9251_lcs.py)            |   DP(LCS) |     Python |    ✅    |
 |[9372_상근이의 여행](./baekjoon/9372_sang_travel.py)    |   MST    |     Python |    ✅    |
 |[9461_파도반 수열](./baekjoon/9461_wave_sequence.py)     |   DP |     Python |    ✅    |
 |[9663_NQueen](./baekjoon/9663_nqueen.py)             |   Backtracking |     Python |    ✅    |
 |[9935_문자열 폭발](./baekjoon/9935_word_explosion.py)    |   문자열    |     Python |       |
 |[10814_나이순정렬](./baekjoon/10814_agesort.py)     |   Sorting |     Python |    ✅    |
-|[10989_정렬 3](./baekjoon/10989_sort3.py)     |   DP |     Python |    ✅    |
+|[10827_a^b](./baekjoon/10827_ab.py)     |    |     Python |    ✅    |
+|[10833_쉬운 계단 수](./baekjoon/10844_easy_stairs.py)     |   DP |     Python |    ✅    |
+|[10989_정렬 3](./baekjoon/10989_sort3.py)     |   Sorting |     Python |    ✅    |
 |[11047_동전0](./baekjoon/11047_coin0.py)            |   Greedy |     Python |    ✅    |
 |[11050_이항계수1](./baekjoon/11050_binom_coef.py)         |   DP    |     Python |    ✅    |
 |[11051_이항계수2](./baekjoon/11051_binom_coef_2.py)        |   DP     |     Python |    ✅    |
+|[11053_LIS](./baekjoon/11053_lis.py)        |   DP     |     Python |    ✅    |
 |[11399_ATM](./baekjoon/11399_atm.py)            |  Greedy  |     Python |    ✅    |
 |[11729_하노이 탑 이동 순서](./baekjoon/11729_hanoi_order.py)|   Divide & Conquer |     Python |    ✅    |
 |[12865_평범한 배낭](./baekjoon/12865_knapsack.py)|   DP|     Python |    ✅    |
