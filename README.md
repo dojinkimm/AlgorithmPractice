@@ -29,7 +29,13 @@
 |[해시_전화번호 목록](./programmers/hash_phonebook.py)  | Hashing  |   Python   |   ✅     | 
 |[해시_위장](./programmers/hash_camouflage.py)  | Hashing  |   Python   |   ✅     | 
 |[해시_베스트앨범](./programmers/hash_bestalbum.py)  | Hashing  |   Python   |        | 
-
+|[DP_N으로 표현](./programmers/dp_n.py)  | DP  |   Python   |     ✅      | 
+|[DP_타일 장식물](./programmers/tiles.py)  | DP  |   Python   |     ✅      | 
+|[DP_정수 삼각형](./programmers/dp_triangle.py)  | DP  |   Python   |     ✅      | 
+|[DP_등굣길](./programmers/dp_goschool.py)  | DP  |   Python   |     ✅      | 
+|[DP_카드 게임](./programmers/dp_card_game.py)  | DP  |   Python   |     ✅      | 
+|[DP_도둑질](./programmers/dp_steal.py)  | DP  |   Python   |     ✅      | 
+|[DP_서울에서 경산까지](./programmers/dp_from_seoul.py)  | DP  |   Python   |     ✅      | 
 
 ### Level 1
 
@@ -125,6 +131,7 @@
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)           |  Bruteforce   |     Python |    ✅    |
 |[2941_크로아티아 알파벳](./baekjoon/2941_croatia_alphabet.py)           |  문자열   |     Python |    ✅    |
 |[4485_녹색 옷 입은 애가 젤다지?](./baekjoon/4485_jelda.py)            |  Dijkstra  |     Python |    ✅    |
+|[6549_히스토그램에서 가장 큰 직사각형](./baekjoon/6649_histogram.py)            |  DP  |     Python |    ✅    |
 |[6593_상범빌딩](./baekjoon/6593_sang_building.py)            |  Dijkstra  |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
 |[7576_토마토](./baekjoon/7576_tomato.py)            |   BFS |     Python |    ✅    |
@@ -142,7 +149,11 @@
 |[11050_이항계수1](./baekjoon/11050_binom_coef.py)         |   DP    |     Python |    ✅    |
 |[11051_이항계수2](./baekjoon/11051_binom_coef_2.py)        |   DP     |     Python |    ✅    |
 |[11053_LIS](./baekjoon/11053_lis.py)        |   DP     |     Python |    ✅    |
+|[11054_가장 큰 바이토닉 부분 수열](./baekjoon/11054_bitonic.py)        |   DP     |     Python |    ✅    |
+|[11055_가장 큰 증가 부분 수열](./baekjoon/11055_long_large_is.py)        |   DP     |     Python |    ✅    |
 |[11399_ATM](./baekjoon/11399_atm.py)            |  Greedy  |     Python |    ✅    |
+|[11722_가장 큰 감소하는 부분 수열](./baekjoon/11722_lds.py)            |  DP  |     Python |    ✅    |
+|[11726_2xn 타일링](./baekjoon/11726_2n_tile.py)            |  DP  |     Python |    ✅    |
 |[11729_하노이 탑 이동 순서](./baekjoon/11729_hanoi_order.py)|   Divide & Conquer |     Python |    ✅    |
 |[12865_평범한 배낭](./baekjoon/12865_knapsack.py)|   DP|     Python |    ✅    |
 |[15953_상금 헌터](./baekjoon/15953_treasure_hunter.py)|   Bruteforce |     Python |    ✅    |
