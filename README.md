@@ -89,9 +89,12 @@
 
 |                          problem                |  algorithm  | language  | solved |
 | :-----------------------------------------------: | :--------: | :--------: | :-----: |
+|[1002_터렛](./baekjoon/1002_turret.py)            |         |   Python   |   ✅     | 
 |[1003_피보나치](./baekjoon/1003_fib.py)            | DP        |   Python   |   ✅     | 
 |[1026_보물](./baekjoon/1026_treasure.py)            |    |   Python   |   ✅     |  
+|[1049_기타줄](./baekjoon/1049_guitar.py)            |  Greedy  |   Python   |   ✅     |  
 |[1074_Z](./baekjoon/1074_z.py) |  Divide & Conquer     |     Python |    ✅    |
+|[1120_문자열](./baekjoon/1120_string.py) |  Greedy     |     Python |    ✅    |
 |[1149_RGB 거리](./baekjoon/1149_rgb.py) |  DP     |     Python |    ✅    |
 |[1152_단어 개수](./baekjoon/1152_numword.py) |  문자열     |     Python |    ✅    |
 |[1157_단어 공부](./baekjoon/1157_wordstudy.py) |  문자열     |     Python |    ✅    |
@@ -112,16 +115,19 @@
 |[1916_최소비용 구하기](./baekjoon/1916_mincost.py)            |   Dijkstra(최단경로) |     Python |    ✅    |
 |[1931_회의실 배정](./baekjoon/1931_meeting.py)            |   Greedy |     Python |    ✅    |
 |[1932_정수 삼각형](./baekjoon/1932_triangle.py)            |   DP |     Python |    ✅    |
+|[1946_신입사원](./baekjoon/1946_fresh.py)            |   Greedy |     Python |    ✅    |
 |[1966_프린터](./baekjoon/1966_printer.py)            |   Simulation |     Python |    ✅    |
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
 |[1992_쿼드트리](./baekjoon/1992_quadtree.py)            |   Divide & Conquer |     Python |    ✅    |
 |[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
 |[2193_이친수](./baekjoon/2193_pinary.py)            |   DP |     Python |    ✅    |
+|[2217_로프](./baekjoon/2217_rope.py)            |   Greedy |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
 |[2294_동전 2](./baekjoon/2294_coin2.py)             |   DP|     Python |    ✅    |
 |[2309_일곱 난쟁이](./baekjoon/2309_dwarf.py)            |   Bruteforce |     Python |    ✅    |
 |[2455_지능형 기차](./baekjoon/2455_train.py)            |   Simulation |     Python |    ✅    |
 |[2468_안전영역](./baekjoon/2468_safezone.py)             |   DFS|     Python |    ✅    |
+|[2529_부등호](./baekjoon/2529_inequality.py)             |   Greedy|     Python |    ✅    |
 |[2579_계단 오르기](./baekjoon/2579_stairs.py)    |   DP         |     Python |    ✅    |
 |[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
 |[2606_바이러스](./baekjoon/2606_virus.py)           |  DFS   |     Python |    ✅    |
@@ -129,8 +135,10 @@
 |[2748_피보나치 2](./baekjoon/2748_fib2.py)            |   DP |     Python |    ✅    |
 |[2751_정렬 2](./baekjoon/2751_sort2.py)             |   Sorting |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)           |  Bruteforce   |     Python |    ✅    |
+|[2875_대회 or 인턴](./baekjoon/2875_intern.py)           |  Greedy   |     Python |    ✅    |
 |[2941_크로아티아 알파벳](./baekjoon/2941_croatia_alphabet.py)           |  문자열   |     Python |    ✅    |
 |[4485_녹색 옷 입은 애가 젤다지?](./baekjoon/4485_jelda.py)            |  Dijkstra  |     Python |    ✅    |
+|[5585_거스름돈](./baekjoon/5585_change_money.py)            |  Greedy  |     Python |    ✅    |
 |[6549_히스토그램에서 가장 큰 직사각형](./baekjoon/6649_histogram.py)            |  DP  |     Python |    ✅    |
 |[6593_상범빌딩](./baekjoon/6593_sang_building.py)            |  Dijkstra  |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
@@ -141,6 +149,7 @@
 |[9461_파도반 수열](./baekjoon/9461_wave_sequence.py)     |   DP |     Python |    ✅    |
 |[9663_NQueen](./baekjoon/9663_nqueen.py)             |   Backtracking |     Python |    ✅    |
 |[9935_문자열 폭발](./baekjoon/9935_word_explosion.py)    |   문자열    |     Python |       |
+|[10610_30](./baekjoon/10610_30.py)     |   Greedy |     Python |    ✅    |
 |[10814_나이순정렬](./baekjoon/10814_agesort.py)     |   Sorting |     Python |    ✅    |
 |[10827_a^b](./baekjoon/10827_ab.py)     |    |     Python |    ✅    |
 |[10833_쉬운 계단 수](./baekjoon/10844_easy_stairs.py)     |   DP |     Python |    ✅    |
