@@ -36,6 +36,9 @@
 |[DP_카드 게임](./programmers/dp_card_game.py)  | DP  |   Python   |     ✅      | 
 |[DP_도둑질](./programmers/dp_steal.py)  | DP  |   Python   |     ✅      | 
 |[DP_서울에서 경산까지](./programmers/dp_from_seoul.py)  | DP  |   Python   |     ✅      | 
+|[이분탐색_예산](./programmers/binary_budget.py)  | 이분 탐색  |   Python   |     ✅      | 
+|[이분탐색_입국심사](./programmers/binary_airport.py)  | 이분 탐색  |   Python   |     ✅      | 
+|[이분탐색_징검다리](./programmers/binary_bridge.py)  | 이분 탐색  |   Python   |     ✅      | 
 
 ### Level 1
 
