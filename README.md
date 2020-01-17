@@ -107,6 +107,7 @@
 |[1620_나는야 포켓몬 마스터 이다솜](./baekjoon/1620_pokemon.py) |   이분 탐색     |     Python |    ✅    |
 |[1654_랜선 자르기](./baekjoon/1654_lancut.py)            |   이분 탐색 |     Python |    ✅    |
 |[1697_숨박꼭질](./baekjoon/1697_hideseek.py)            |   BFS |     Python |    ✅    |
+|[1748_수 이어 쓰기 1](./baekjoon/1748_connect_num.py)            |    |     Python |    ✅    |
 |[1753_최단경로](./baekjoon/1753_shortest_path.py)            |   Dijkstra(최단경로) |     Python |    ✅    |
 |[1759_암호 만들기](./baekjoon/1759_make_pwd.py)        |   Backtracking   |     Python |    ✅    |
 |[1764_듣보잡](./baekjoon/1764_deutbo.py)            |    |     Python |    ✅    |
@@ -129,8 +130,10 @@
 |[2309_일곱 난쟁이](./baekjoon/2309_dwarf.py)            |   Bruteforce |     Python |    ✅    |
 |[2455_지능형 기차](./baekjoon/2455_train.py)            |   Simulation |     Python |    ✅    |
 |[2468_안전영역](./baekjoon/2468_safezone.py)             |   DFS|     Python |    ✅    |
+|[2490_윷놀이](./baekjoon/2490_yut.py)             |   |     Python |    ✅    |
 |[2512_예산](./baekjoon/2512_예산.py)             |   이분 탐색|     Python |    ✅    |
 |[2529_부등호](./baekjoon/2529_inequality.py)             |   Greedy|     Python |    ✅    |
+|[2563_색종이](./baekjoon/2563_paper.py)    |            |     Python |    ✅    |
 |[2579_계단 오르기](./baekjoon/2579_stairs.py)    |   DP         |     Python |    ✅    |
 |[2580_스도쿠 - 다른 풀이 방법](./baekjoon/2580_sudoku_v2.py)    |   Backtracking         |     Python |    ✅    |
 |[2606_바이러스](./baekjoon/2606_virus.py)           |  DFS   |     Python |    ✅    |
@@ -144,8 +147,11 @@
 |[2941_크로아티아 알파벳](./baekjoon/2941_croatia_alphabet.py)           |  문자열   |     Python |    ✅    |
 |[2960_에라토스테네스의 체](./baekjoon/2960_eratosthenes.py)           |     |     Python |    ✅    |
 |[2985_세 수](./baekjoon/2985_three_num.py)           |     |     Python |    ✅    |
+|[3053_택시 기하학](./baekjoon/3053_taxi.py)           |     |     Python |    ✅    |
+|[4153_직각삼각형](./baekjoon/4153_tri.py)           |     |     Python |    ✅    |
 |[4485_녹색 옷 입은 애가 젤다지?](./baekjoon/4485_jelda.py)            |  Dijkstra  |     Python |    ✅    |
 |[4948_베르트랑 공준](./baekjoon/4948_bertrand.py)            |    |     Python |    ✅    |
+|[5430_AC](./baekjoon/5430_ac.py)            |    |     Python |    ✅    |
 |[5557_1학년](./baekjoon/5557_1grade.py)            |  DP  |     Python |    ✅    |
 |[5568_카드 놓기](./baekjoon/5568_pick_card.py)            |  DFS  |     Python |    ✅    |
 |[5585_거스름돈](./baekjoon/5585_change_money.py)            |  Greedy  |     Python |    ✅    |
