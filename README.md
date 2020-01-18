@@ -84,6 +84,9 @@
 |[보호소에서 중성화한 동물](./programmers/sql/2019-09-07-sql6_2.md) |   SQL   |    ✅    |
 |[루시와 엘라 찾기](./programmers/sql/2019-09-08-sql7_1.md) |   SQL   |    ✅    |
 |[이름이 el로 끝나는 동물 찾기](./programmers/sql/2019-09-08-sql7_2.md) |   SQL   |    ✅    |
+|[동물의 아이디와 이름](./programmers/sql/select_id_and_name.md) |   SQL   |    ✅    |
+|[여러 기준으로 정렬하기](./programmers/sql/select_order.md) |   SQL   |    ✅    |
+|[상위 n개 레코드](./programmers/sql/select_top_one.md) |   SQL   |    ✅    |
 
 
 
