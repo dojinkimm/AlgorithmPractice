@@ -22,25 +22,23 @@
 
 예시)
 
-| ANIMAL_ID  | NAME         |  DATETIME           |
-|------------|--------------|---------------------|
-| A355753	 |	Jewel	    | 2017-08-13 13:50:00 |   
-| A396810    |	Raven   	| 2016-08-22 16:13:00 |
-| A410668    |	Raven   	| 2015-11-19 13:41:00 |
+| NAME         |
+|--------------|
+|	Jack	   | 
       
 
 ## 해설
 
-일단, ANIMAL_INS의 ANIMAL_ID, NAME, DATETIME이 나와야 한다. 
-```SELECT ANIMAL_ID, NAME, DATETIME FROM ANIMAL_INS ```  
-그 다음에는 NAME으로 먼저 정렬하고 그 다음에는 DATETIME으로 정렬을 한다. DATETIME은 늦은 기간이 더 먼저 와야 하기 떄문에 DESC를 붙힌다
-```ORDER BY NAME, DATETIME DESC```   
+일단, ANIMAL_INS의  NAME이 나와야 한다. 
+```SELECT NAME FROM ANIMAL_INS  ```  
+그 다음에는 DATETIME으로 정렬하고 맨 위의 element만 가지고 온다
+```ORDER BY DATETIME LIMIT 1```   
 
 ## Answer
 
 ```SQL
-SELECT ANIMAL_ID, NAME, DATETIME FROM ANIMAL_INS ORDER BY NAME, DATETIME DESC
+SELECT NAME FROM ANIMAL_INS ORDER BY DATETIME LIMIT 1
 ```
 
 
-<bold> source: https://programmers.co.kr/learn/courses/30/lessons/59404?language=mysql </bold>
+<bold> source: https://programmers.co.kr/learn/courses/30/lessons/59405?language=mysql</bold>
