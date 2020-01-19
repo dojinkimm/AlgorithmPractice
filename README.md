@@ -148,8 +148,10 @@
 |[2751_정렬 2](./baekjoon/2751_sort2.py)             |   Sorting |     Python |    ✅    |
 |[2798_블랙잭](./baekjoon/2798_blackjack.py)           |  Bruteforce   |     Python |    ✅    |
 |[2805_나무 자르기](./baekjoon/2805_cut_tree.py)           |  이분 탐색   |     Python |    ✅    |
+|[2851_슈퍼 마리오](./baekjoon/2851_mario.py)           |    |     Python |    ✅    |
 |[2869_달팽이는 올라가고 싶다](./baekjoon/2869_snail.py)           |  이분 탐색   |     Python |    ✅    |
 |[2875_대회 or 인턴](./baekjoon/2875_intern.py)           |  Greedy   |     Python |    ✅    |
+|[2935_소음](./baekjoon/2935_sound.py)           |     |     Python |    ✅    |
 |[2941_크로아티아 알파벳](./baekjoon/2941_croatia_alphabet.py)           |  문자열   |     Python |    ✅    |
 |[2960_에라토스테네스의 체](./baekjoon/2960_eratosthenes.py)           |     |     Python |    ✅    |
 |[2985_세 수](./baekjoon/2985_three_num.py)           |     |     Python |    ✅    |
@@ -159,6 +161,7 @@
 |[4948_베르트랑 공준](./baekjoon/4948_bertrand.py)            |    |     Python |    ✅    |
 |[5430_AC](./baekjoon/5430_ac.py)            |    |     Python |    ✅    |
 |[5557_1학년](./baekjoon/5557_1grade.py)            |  DP  |     Python |    ✅    |
+|[5567_결혼식](./baekjoon/5567_wedding.py)            |    |     Python |    ✅    |
 |[5568_카드 놓기](./baekjoon/5568_pick_card.py)            |  DFS  |     Python |    ✅    |
 |[5585_거스름돈](./baekjoon/5585_change_money.py)            |  Greedy  |     Python |    ✅    |
 |[6549_히스토그램에서 가장 큰 직사각형](./baekjoon/6649_histogram.py)            |  DP  |     Python |    ✅    |
