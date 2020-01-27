@@ -39,6 +39,17 @@
 |[이분탐색_예산](./programmers/binary_budget.py)  | 이분 탐색  |   Python   |     ✅      | 
 |[이분탐색_입국심사](./programmers/binary_airport.py)  | 이분 탐색  |   Python   |     ✅      | 
 |[이분탐색_징검다리](./programmers/binary_bridge.py)  | 이분 탐색  |   Python   |     ✅      | 
+|[DFS/BFS_타겟 넘버](./programmers/dfs_bfs_target.py)  | DFS/BFS  |   Python   |     ✅      | 
+|[DFS/BFS_네트워크](./programmers/dfs_bfs_network.py)  | DFS/BFS  |   Python   |     ✅      | 
+|[DFS/BFS 단어 변환](./programmers/dfs_bfs_word_change.py)  | DFS/BFS  |   Python   |     ✅      | 
+|[DFS/BFS 여행 경로](./programmers/dfs_bfs_travel.py)  | DFS/BFS  |   Python   |     ✅      | 
+|[스택/큐 다리를 지나는 트럭](./programmers/stack_queue_bridge.py)  | 스택/큐  |   Python   |     ✅      | 
+|[스택/큐 기능 개발](./programmers/stack_queue_progress.py)  | 스택/큐  |   Python   |     ✅      | 
+|[스택/큐 프린터](./programmers/stack_queue_printer.py)  | 스택/큐  |   Python   |     ✅      | 
+|[스택/큐 쇠막대기](./programmers/stack_queue_stick.py)  | 스택/큐  |   Python   |     ✅      | 
+|[스택/큐 주식 가격](./programmers/stack_queue_stock.py)  | 스택/큐  |   Python   |     ✅      | 
+
+
 
 ### Level 1
 
@@ -128,7 +139,7 @@
 |[1931_회의실 배정](./baekjoon/1931_meeting.py)            |   Greedy |     Python |    ✅    |
 |[1932_정수 삼각형](./baekjoon/1932_triangle.py)            |   DP |     Python |    ✅    |
 |[1946_신입사원](./baekjoon/1946_fresh.py)            |   Greedy |     Python |    ✅    |
-|[1966_프린터](./baekjoon/1966_printer.py)            |   Simulation |     Python |    ✅    |
+|[1966_프린터](./baekjoon/1966_printer.py)     ta       |   Simulation |     Python |    ✅    |
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
 |[1992_쿼드트리](./baekjoon/1992_quadtree.py)            |   Divide & Conquer |     Python |    ✅    |
 |[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
