@@ -97,6 +97,8 @@
 | :-----------------------------------------------: | :--------: | :--------: | :-----: |
 |[1002_터렛](./baekjoon/1002_turret.py)            |         |   Python   |   ✅     | 
 |[1003_피보나치](./baekjoon/1003_fib.py)            | DP        |   Python   |   ✅     | 
+|[1010_다리 놓기](./baekjoon/1010_bridge.py)            | DP        |   Python   |   ✅     | 
+|[1012_유기농 배추](./baekjoon/1012_cabbage.py)            | DFS        |   Python   |   ✅     | 
 |[1026_보물](./baekjoon/1026_treasure.py)            |    |   Python   |   ✅     |  
 |[1049_기타줄](./baekjoon/1049_guitar.py)            |  Greedy  |   Python   |   ✅     |  
 |[1074_Z](./baekjoon/1074_z.py) |  Divide & Conquer     |     Python |    ✅    |
@@ -104,6 +106,7 @@
 |[1149_RGB 거리](./baekjoon/1149_rgb.py) |  DP     |     Python |    ✅    |
 |[1152_단어 개수](./baekjoon/1152_numword.py) |  문자열     |     Python |    ✅    |
 |[1157_단어 공부](./baekjoon/1157_wordstudy.py) |  문자열     |     Python |    ✅    |
+|[1182_부분 수열의 합](./baekjoon/1182_partialsum.py) |  Bruteforce     |     Python |    ✅    |
 |[1238_파티](./baekjoon/1238_party.py) |  Dijkstra(최단거리)     |     Python |    ✅    |
 |[1260_DFS와 BFS](./baekjoon/1260_dfs_bfs.py) |  BFS, DFS     |     Python |    ✅    |
 |[1261_알고스팟](./baekjoon/1261_algospot.py) |  Dijkstra(최단거리)     |     Python |    ✅    |
@@ -129,6 +132,7 @@
 |[1987_알파벳](./baekjoon/1987_alphabet.py)            |   Backtracking |     Python |    ✅    |
 |[1992_쿼드트리](./baekjoon/1992_quadtree.py)            |   Divide & Conquer |     Python |    ✅    |
 |[2156_포도주 시식](./baekjoon/2156_wine.py)            |   DP |     Python |    ✅    |
+|[2178_미로 탐색](./baekjoon/2178_maze.py)            |   BFS |     Python |    ✅    |
 |[2193_이친수](./baekjoon/2193_pinary.py)            |   DP |     Python |    ✅    |
 |[2217_로프](./baekjoon/2217_rope.py)            |   Greedy |     Python |    ✅    |
 |[2231_분해합](./baekjoon/2231_divide_sum.py)            |   Bruteforce |     Python |    ✅    |
@@ -166,8 +170,10 @@
 |[5585_거스름돈](./baekjoon/5585_change_money.py)            |  Greedy  |     Python |    ✅    |
 |[6549_히스토그램에서 가장 큰 직사각형](./baekjoon/6649_histogram.py)            |  DP  |     Python |    ✅    |
 |[6593_상범빌딩](./baekjoon/6593_sang_building.py)            |  Dijkstra  |     Python |    ✅    |
+|[6604_로또](./baekjoon/6603_lotto.py)            |    |     Python |    ✅    |
 |[7568_덩치](./baekjoon/7568_body_size.py)            |  Bruteforce  |     Python |    ✅    |
 |[7576_토마토](./baekjoon/7576_tomato.py)            |   BFS |     Python |    ✅    |
+|[7785_회사에 있는 사람](./baekjoon/7785_office.py)            |    |     Python |    ✅    |
 |[9095_1,2,3 더하기](./baekjoon/9095_123.py)            |   DP |     Python |    ✅    |
 |[9251_LCS](./baekjoon/9251_lcs.py)            |   DP(LCS) |     Python |    ✅    |
 |[9372_상근이의 여행](./baekjoon/9372_sang_travel.py)    |   MST    |     Python |    ✅    |
@@ -192,6 +198,8 @@
 |[11726_2xn 타일링](./baekjoon/11726_2n_tile.py)            |  DP  |     Python |    ✅    |
 |[11729_하노이 탑 이동 순서](./baekjoon/11729_hanoi_order.py)|   Divide & Conquer |     Python |    ✅    |
 |[12865_평범한 배낭](./baekjoon/12865_knapsack.py)|   DP|     Python |    ✅    |
+|[14501_퇴사](./baekjoon/14501_out.py)|   DP|     Python |    ✅    |
+|[14888_연산자 끼워넣기](./baekjoon/14888_operator.py)|   Bruteforce|     Python |    ✅    |
 |[15953_상금 헌터](./baekjoon/15953_treasure_hunter.py)|   Bruteforce |     Python |    ✅    |
 
 
