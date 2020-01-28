@@ -48,6 +48,10 @@
 |[스택/큐 프린터](./programmers/stack_queue_printer.py)  | 스택/큐  |   Python   |     ✅      | 
 |[스택/큐 쇠막대기](./programmers/stack_queue_stick.py)  | 스택/큐  |   Python   |     ✅      | 
 |[스택/큐 주식 가격](./programmers/stack_queue_stock.py)  | 스택/큐  |   Python   |     ✅      | 
+|[Heap 더 맵게](./programmers/heap_scoville.py)  | Heap  |   Python   |     ✅      | 
+|[Heap 라면 공장](./programmers/heap_noodle.py)  | Heap  |   Python   |     ✅      | 
+|[Heap 디스크 컨트롤러](./programmers/heap_disk.py)  | Heap  |   Python   |     ✅      | 
+|[Heap 이중우선순위큐](./programmers/heap_double.py)  | Heap  |   Python   |     ✅      | 
 
 
 
