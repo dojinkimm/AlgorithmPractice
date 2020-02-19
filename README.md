@@ -14,6 +14,15 @@
 |[캐시](./programmers/kakao_blind_2017/3_cache.py)             |   Python   |   ✅     |  
 
 
+### Kakao Blind 2020
+|                          problem                |  language  | solved |
+| :-----------------------------------------------: | :--------: | :-----: |
+|[문자열 압축](./programmers/kakao_2020/strings.py)             |   Python   |   ✅     |  
+|[괄호 변환](./programmers/kakao_2020/change_paran.py)             |   Python   |   ✅     |  
+|[자물쇠와 열쇠](./programmers/kakao_2020/lock_key.py)             |   Python   |   ✅     |  
+
+
+
 ### 코딩테스트 고득점 Kit
 
 |                          problem                |  algorithm  | language  | solved |
@@ -178,6 +187,7 @@
 |[4153_직각삼각형](./baekjoon/4153_tri.py)           |     |     Python |    ✅    |
 |[4485_녹색 옷 입은 애가 젤다지?](./baekjoon/4485_jelda.py)            |  Dijkstra  |     Python |    ✅    |
 |[4948_베르트랑 공준](./baekjoon/4948_bertrand.py)            |    |     Python |    ✅    |
+|[5052_전화번호 목록](./baekjoon/5052_phonebook.py)            |    |     Python |    ✅    |
 |[5430_AC](./baekjoon/5430_ac.py)            |    |     Python |    ✅    |
 |[5557_1학년](./baekjoon/5557_1grade.py)            |  DP  |     Python |    ✅    |
 |[5567_결혼식](./baekjoon/5567_wedding.py)            |    |     Python |    ✅    |
@@ -209,7 +219,9 @@
 |[11054_가장 큰 바이토닉 부분 수열](./baekjoon/11054_bitonic.py)        |   DP     |     Python |    ✅    |
 |[11055_가장 큰 증가 부분 수열](./baekjoon/11055_long_large_is.py)        |   DP     |     Python |    ✅    |
 |[11399_ATM](./baekjoon/11399_atm.py)            |  Greedy  |     Python |    ✅    |
+|[11403_path](./baekjoon/11403_path.py)            |  BFS  |     Python |    ✅    |
 |[11722_가장 큰 감소하는 부분 수열](./baekjoon/11722_lds.py)            |  DP  |     Python |    ✅    |
+|[11724_연결 요소의 개수](./baekjoon/11724_connected.py)            |  DFS  |     Python |    ✅    |
 |[11726_2xn 타일링](./baekjoon/11726_2n_tile.py)            |  DP  |     Python |    ✅    |
 |[11729_하노이 탑 이동 순서](./baekjoon/11729_hanoi_order.py)|   Divide & Conquer |     Python |    ✅    |
 |[12865_평범한 배낭](./baekjoon/12865_knapsack.py)|   DP|     Python |    ✅    |
