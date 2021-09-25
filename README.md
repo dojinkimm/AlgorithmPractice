@@ -249,5 +249,6 @@
 |[33 Search in Rotated Sorted Array](./leetcode/33_search_rotated_sort.py) |  Unknown |  Medium |   Python |   ✅    | 
 |[34 Find First and Last Position of Element in Sorted Array](./leetcode/34_find_first_last_position.java) |  Unknown |  Medium |   Java |   ✅    | 
 |[36 Valid Sudoku](./leetcode/36_valid_sudoku.java) |  Unknown |  Medium |   Java |   ✅    | 
-|[338 Counting Bits](./leetcode/338_counting_bits.py) |  DP |  Medium |   Python |   ✅    | 
+|[338 Counting Bits](./leetcode/338_counting_bits.py) |  DP |  Easy |   Python |   ✅    | 
+|[392 Is Subsequence](./leetcode/392_is_subsequence.py) |  DP |  Easy |   Python |   ✅    | 
 
