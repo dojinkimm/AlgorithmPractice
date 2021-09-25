@@ -233,20 +233,21 @@
 
 ## [LeetCode](https://leetcode.com/)
 
-|                          problem                |  Level  | language  | solved |
-| :-----------------------------------------------: | :--------: | :--------: | :-----: |
-|[2 Add Two Numbers](./leetcode/2_add_two_numbers.py) |  Medium |   Python |   ✅    |
-|[7 Reverse Integer](./leetcode/7_reverse_integer.py) |  Easy |   Python |   ✅    | 
-|[8 String to Integer (atoi)](./leetcode/8_atoi.py) |  Medium |   Python |   ✅    | 
-|[9 Palindrome Number](./leetcode/9_palindrome.py) |  Easy |   Python |   ✅    | 
-|[11 Container With Most Water](./leetcode/11_cont_most_water.py) |  Medium |   Python |   ✅    | 
-|[13 Roman to Integer](./leetcode/13_roman_int.py) |  Easy |   Python |   ✅    | 
-|[20 Valid Parentheses](./leetcode/20_valid_paran_.py) |  Easy |   Python |   ✅    | 
-|[21 Merge Two Sorted Lists](./leetcode/21_merge_two_sorted.py) |  Easy |   Python |   ✅    | 
-|[22 Generate Parentheses](./leetcode/22_generate_paran.py) |  Medium |   Python |   ✅    | 
-|[28 Implement strStr()](./leetcode/28_strstr.py) |  Easy |   Python |   ✅    | 
-|[29 Divide Two Integers](./leetcode/29_divide_two_int.py) |  Medium |   Python |   ✅    | 
-|[33 Search in Rotated Sorted Array](./leetcode/33_search_rotated_sort.py) |  Medium |   Python |   ✅    | 
-|[34 Find First and Last Position of Element in Sorted Array](./leetcode/34_find_first_last_position.java) |  Medium |   Java |   ✅    | 
-|[36 Valid Sudoku](./leetcode/36_valid_sudoku.java) |  Medium |   Java |   ✅    | 
+|                          problem                |  algorithm | level  | language  | solved |
+| :-----------------------------------------------: | :--------: | :--------: | :--------: | :-----: |
+|[2 Add Two Numbers](./leetcode/2_add_two_numbers.py) |  Unknown |  Medium |   Python |   ✅    |
+|[7 Reverse Integer](./leetcode/7_reverse_integer.py) |  Unknown |  Easy |   Python |   ✅    | 
+|[8 String to Integer (atoi)](./leetcode/8_atoi.py) |  Unknown |  Medium |   Python |   ✅    | 
+|[9 Palindrome Number](./leetcode/9_palindrome.py) |  Unknown |  Easy |   Python |   ✅    | 
+|[11 Container With Most Water](./leetcode/11_cont_most_water.py) |  Unknown |  Medium |   Python |   ✅    | 
+|[13 Roman to Integer](./leetcode/13_roman_int.py) |  Unknown |  Easy |   Python |   ✅    | 
+|[20 Valid Parentheses](./leetcode/20_valid_paran_.py) |  Unknown |  Easy |   Python |   ✅    | 
+|[21 Merge Two Sorted Lists](./leetcode/21_merge_two_sorted.py) |  Unknown |  Easy |   Python |   ✅    | 
+|[22 Generate Parentheses](./leetcode/22_generate_paran.py) |  Unknown |  Medium |   Python |   ✅    | 
+|[28 Implement strStr()](./leetcode/28_strstr.py) |  Unknown |  Easy |   Python |   ✅    | 
+|[29 Divide Two Integers](./leetcode/29_divide_two_int.py) |  Unknown |  Medium |   Python |   ✅    | 
+|[33 Search in Rotated Sorted Array](./leetcode/33_search_rotated_sort.py) |  Unknown |  Medium |   Python |   ✅    | 
+|[34 Find First and Last Position of Element in Sorted Array](./leetcode/34_find_first_last_position.java) |  Unknown |  Medium |   Java |   ✅    | 
+|[36 Valid Sudoku](./leetcode/36_valid_sudoku.java) |  Unknown |  Medium |   Java |   ✅    | 
+|[338 Counting Bits](./leetcode/338_counting_bits.py) |  DP |  Medium |   Python |   ✅    | 
 
