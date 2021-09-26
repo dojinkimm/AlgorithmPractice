@@ -251,4 +251,6 @@
 |[36 Valid Sudoku](./leetcode/36_valid_sudoku.java) |   |  Medium |   Java |   ✅    | 
 |[338 Counting Bits](./leetcode/338_counting_bits.py) |  DP |  Easy |   Python |   ✅    | 
 |[392 Is Subsequence](./leetcode/392_is_subsequence.py) |  DP |  Easy |   Python |   ✅    | 
+|[746 Min Cost Climbing Stairs](./leetcode/746_min_cost_climbing_stairs.py) |  DP |  Easy |   Python |   ✅    |
+|[1646 Get Maximum in Generated Array](./leetcode/1646_get_maximum_in_generated_array.py) |  DP |  Easy |   Python |   ✅    | 
 
